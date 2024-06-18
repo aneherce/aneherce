@@ -1,0 +1,6 @@
+
+
+const hydra = new Hydra({
+    canvas: document.getElementById('container'),
+    detectAudio: false,
+});
